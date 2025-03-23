@@ -21,14 +21,14 @@ We implement and compare two types of **word embeddings** with different models:
 
 ## ⚙️ **Installation & Execution**  
 1. Clone this repository:  
-   ````bash ```
+   ````bash 
    git clone https://github.com/Austronesia/Text-Classification-IMDB.git
    cd Text-Classification-IMDB````
 2. Install dependencies:
-   ````bash ```
+   ````bash 
    pip install -r requirements.txt````
 3. Run the Jupyter Notebook:
-   ````bash ```
+   ````bash 
    jupyter notebook````
 
 ## 📁 Project Structure
