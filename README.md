@@ -32,11 +32,11 @@ We implement and compare two types of **word embeddings** with different models:
    jupyter notebook````
 
 ## 📁 Project Structure
-├── notebooks/                # Jupyter Notebooks with analysis
-├── models/                   # Saved trained models
-├── results/                  # Plots & evaluation metrics
-├── README.md                 # Project documentation
-└── requirements.txt          # Dependencies
+- notebooks/                # Jupyter Notebooks with analysis
+- models/                   # Saved trained models
+- results/                  # Plots & evaluation metrics
+- README.md                 # Project documentation
+- requirements.txt          # Dependencies
 
 ## Next Steps and Improvements
 - Try additional embeddings (FastText, BERT)
