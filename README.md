@@ -23,7 +23,7 @@ We implement and compare two types of **word embeddings** with different models:
 ## ⚙️ **Installation & Execution**  
 1. Clone this repository:  
    ````bash 
-   git clone https://github.com/Austronesia/Text-Classification-IMDB.git
+   git clone https://github.com/Austronesia/Text-Classification.git
    cd Text-Classification-IMDB
 2. Install dependencies:
    ````bash 
