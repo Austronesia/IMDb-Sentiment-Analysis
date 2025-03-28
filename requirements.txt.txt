@@ -1,9 +1,0 @@
-datasets
-pandas
-seaborn
-matplotlib
-nltk
-scikit-learn
-umap-learn
-torch
-gensim
