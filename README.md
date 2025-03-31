@@ -33,7 +33,7 @@ Interestingly, the Mixture of Experts (MoE) model using Word2Vec slightly outper
 1. Clone this repository:  
    ````bash 
    git clone https://github.com/Austronesia/Text-Classification.git
-   cd Text-Classification
+   cd IMDb-Sentiment-Analysis
 2. Install dependencies:
    ````bash 
    pip install -r requirements.txt
