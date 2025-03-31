@@ -39,15 +39,15 @@ Interestingly, the Mixture of Experts (MoE) model using Word2Vec slightly outper
    pip install -r requirements.txt
 3. Run the Jupyter Notebook:
    ````bash 
-   jupyter notebook
+   jupyter Sentiment_analysis.ipynb
 
 ## 📁 Project Structure
 ```  
-├── notebook                  # Jupyter Notebook with analysis
 ├── models/                   # Saved trained models
 ├── results/                  # Plots & evaluation metrics
 ├── README.md                 # Project documentation
 ├── requirements.txt          # Dependencies
+├── Sentiment_analysis.ipynb  # Jupyter Notebook with analysis
 ``` 
 
 
